@@ -33,7 +33,7 @@ body{
        font-size: 50px;
    }
    .headSection__left .name{
-       color: #FF8367;
+       color: #8aff67;
    }
    .headSection__left p{
        font-size: 16px;
@@ -81,7 +81,7 @@ body{
        text-transform: uppercase;
    }
    .working__title h1 span{
-       color: orange;
+       color: rgb(42, 243, 59);
    }
    
    .workingp{
@@ -98,7 +98,6 @@ body{
        width: 100%;
    }
    .working__detail{
-       /* object-fit: contain; */
        padding: 5px;
        margin: 5px;
    }
@@ -109,10 +108,7 @@ body{
        color: #6C6C6c;
        font-size: 16px;
    }
-   /* add section */
-   /* .addsection{
-       height: 500px;
-   } */
+   /
    .addsection{
     background-image: url(shapes/Group_33094_1.png);
    background-position-y: center;
